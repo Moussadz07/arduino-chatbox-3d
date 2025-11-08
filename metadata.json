@@ -1,0 +1,5 @@
+{
+  "name": "Arduino ChatBox 3D",
+  "description": "An interactive chat platform to generate complete Arduino project solutions, including bill of materials, code, and schematic descriptions, powered by AI.",
+  "requestFramePermissions": []
+}
